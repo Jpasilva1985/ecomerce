@@ -52,4 +52,29 @@
     .exclusive-container h2{
         margin-top: 3rem;
     }
+    .comentarios{
+        flex-direction: column;
+    }
+    .coment{
+        margin-bottom: 1.2rem;
+    }
+    .footer-content{
+        display: inline;
+        font-size: 0.8rem;
+    }
+    .footer-content>div{
+        padding: 1rem;
+    }
+    .footer-content .links-footer li{
+        text-align: center;
+    }
+    .download-options>{
+        display: inline;
+    }
+    .download-options img{
+        width: 120px;
+    }
+    .copyright{
+        font-size: 0.8rem;
+    }
 }
