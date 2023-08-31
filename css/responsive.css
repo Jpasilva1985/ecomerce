@@ -33,9 +33,14 @@
         font-size: 1rem;
     }
 
+
     .cols-3{
         grid-template-columns: repeat(1, 1fr);
+
         
+    }
+    .cols-3 img{
+        margin: 0 auto;
     }
     .cols-4{
         grid-template-columns: repeat(2, 1fr);
